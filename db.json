@@ -1,0 +1,25 @@
+{
+    "orgs": [
+        {
+            "full_name": "STS Education",
+            "abbreviation": "STS",
+            "id": "5ca578e1-7d51-4dc9-881c-5f3f27919d0c",
+            "play_enabled": true,
+            "timers_enabled": true,
+            "access_code": "right-far-9"
+        }
+    ],
+    "users": [
+        {
+            "full_name": "Isabella Gibson",
+            "display_name": "Izzy",
+            "password": "73402936b4f6128d0aae4e25d5d7e0a3",
+            "profile_picture_url": null,
+            "parent_organization_id": null,
+            "id": "238c7630-5425-496b-957c-5449711ffd9c",
+            "admin": true,
+            "api_key": "pZn05XsPu4NQzCBt7xFq1U3Lq5kziFz3NfUZ9nXkheVIGx30O1giWnD1jhWP85jk"
+        }
+    ],
+    "groups": []
+}
